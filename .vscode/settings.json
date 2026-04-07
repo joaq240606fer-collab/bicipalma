@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "Bicipalma",
         "Bicicleta",
-        "Estacion"
+        "Estacion",
+        "TarjetaUsuario"
     ]
 }
