@@ -3,6 +3,8 @@
         "Bicipalma",
         "Bicicleta",
         "Estacion",
-        "TarjetaUsuario"
-    ]
+        "TarjetaUsuario",
+        "Hotfix"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }

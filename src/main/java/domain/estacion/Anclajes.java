@@ -9,8 +9,7 @@ class Anclajes {
     /**
      * Anclajes es una composición
      * (agregacion fuerte) de Anclaje
-     */
-     
+     */ 
     private final Anclaje[] anclajes;
 
     Anclajes(int numAnclajes) {
@@ -38,7 +37,7 @@ class Anclajes {
 
     boolean isAnclajeOcupado(int posicion) {
 		return this.anclajes[posicion].isOcupado();
-	  }
+	}
 
     void liberarAnclaje(int posicion) {
 		this.anclajes[posicion].liberarBici();

@@ -1,0 +1,8 @@
+domain/estacion/Estacion.class
+domain/bicicleta/Movil.class
+domain/bicicleta/Bicicleta.class
+appalma/BiciPalma.class
+domain/tarjetausuario/TarjetaUsuario.class
+domain/estacion/Anclaje.class
+domain/estacion/Anclajes.class
+domain/tarjetausuario/Autenticacion.class
